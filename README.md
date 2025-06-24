@@ -4,7 +4,7 @@ This repository contains my Verilog practice codes. Each folder has a separate m
 
 ## Folder List
 
-- `LFSR_5bit` - 5-bit Linear Feedback Shift Register
+- `LFSR_5bit` – 5-bit Linear Feedback Shift Register
 
 ## Tools Used
 
@@ -13,18 +13,18 @@ This repository contains my Verilog practice codes. Each folder has a separate m
 
 ## Purpose
 
-This repository is for learning and improving Verilog coding skills. It includes small projects that help understand digital design concepts like flip-flops, counters, shift registers, and FSMs.
+This repository is for learning and improving Verilog coding skills. It includes small projects that help understand digital design concepts like flip-flops, counters, shift registers, and finite state machines.
 
 ## How to Use
 
-1. Go into any module folder
-2. Open the `.v` files (main module and testbench)
-3. Simulate using Icarus Verilog or any other simulator
-4. View waveforms with GTKWave
+1. Open the project folder in Vivado
+2. Add `.v` files (main module and testbench) to your Vivado project
+3. Run behavioral simulation
+4. View waveforms using Vivado's built-in simulator
 
 ## To Do (Upcoming Modules)
 
 - ALU
 - BCD Counter
-- Finite State Machine
+- Finite State Machine (FSM)
 - UART
