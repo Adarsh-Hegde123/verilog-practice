@@ -8,9 +8,8 @@ This repository contains my Verilog practice codes. Each folder has a separate m
 
 ## Tools Used
 
-- Verilog HDL
-- Icarus Verilog / ModelSim (for simulation)
-- GTKWave (for waveform viewing)
+- **Vivado 2018.2** – for simulation, synthesis, and waveform generation
+- **Verilog HDL** – hardware description language
 
 ## Purpose
 
